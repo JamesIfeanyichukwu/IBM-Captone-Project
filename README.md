@@ -93,7 +93,7 @@
 
 • The growing interest in AI and Machine Learning suggests that Python will gain more significance and popularity in the coming years.
 
-![image](assets/p3_dtrends.JPG)
+![image](assets/p3_dtrends.png)
 
 ### DATABASE TRENDS - FINDINGS & IMPLICATIONS
 
