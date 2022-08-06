@@ -59,6 +59,7 @@
 ▪ Assessing the distribution of the datasets, presence of outliers, and correlation between columns.
 
 ▪ Data Visualization (tools):
+
     ▪ Python Matplotlib & Seaborn
     ▪ IBM Cognos Dashboard
 
