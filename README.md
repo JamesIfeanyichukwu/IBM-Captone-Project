@@ -46,15 +46,17 @@
 
 ▪ Data Collection (Web-Scraping):
 
-> Stack overflow developer 2019 survey1
-> GitHub job postings2
-> Programming languages annual salary3
+    ▪ Stack overflow developer 2019 survey1
+
+    ▪ GitHub job postings2
+
+    ▪ Programming languages annual salary3
 
 ▪ Data Wrangling:
 
-- Checking for quality and tidiness issues.
-- Data Cleaning
-- Handling missing data, normalization, and checking for datatype consistency.
+    ▪ Checking for quality and tidiness issues.
+    ▪ Data Cleaning
+    ▪ Handling missing data, normalization, and checking for datatype consistency.
 
 ▪ Exploratory Data Analysis
 
@@ -62,11 +64,11 @@
 
 ▪ Data Visualization (tools):
 
-> Python Matplotlib & Seaborn
+    ▪ Python Matplotlib & Seaborn
 
-> IBM Cognos Dashboard
+    ▪ IBM Cognos Dashboard
 
-> Presentation of Results
+▪ Presentation of Results
 
 ## EXPLANATORY ANALYSIS
 
@@ -119,9 +121,10 @@
 #### DEMOGRAPHICS
 ![image](assets/p6_demographics.JPG)
 
-
+#### JOB POSTINGS
 ![image](assets/p7_jobpostings.JPG)
 
+#### POPULAR LANGUAGES
 ![image](assets/p8_poplangs.JPG)
 
 
