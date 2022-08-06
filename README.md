@@ -77,7 +77,7 @@
 
 ### PROGRAMMING LANGUAGE TRENDS - FINDINGS & IMPLICATIONS
 
-![image](assets/p2_pltrends.JPG)
+![image](assets/p2_pltrends.png)
 
 #### FINDINGS
 
