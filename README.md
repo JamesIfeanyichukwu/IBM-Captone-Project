@@ -11,11 +11,8 @@
 • Methodology
 
 • Explanatory Analysis
-
     • Visualization – Charts
-
     • Dashboard
-
     • Findings & Implications
 
 • Conclusion
@@ -45,15 +42,11 @@
 ### METHODOLOGY
 
 ▪ Data Collection (Web-Scraping):
-
     ▪ Stack overflow developer 2019 survey1
-
     ▪ GitHub job postings2
-
     ▪ Programming languages annual salary3
 
 ▪ Data Wrangling:
-
     ▪ Checking for quality and tidiness issues.
     ▪ Data Cleaning
     ▪ Handling missing data, normalization, and checking for datatype consistency.
@@ -63,9 +56,7 @@
 ▪ Assessing the distribution of the datasets, presence of outliers, and correlation between columns.
 
 ▪ Data Visualization (tools):
-
     ▪ Python Matplotlib & Seaborn
-
     ▪ IBM Cognos Dashboard
 
 ▪ Presentation of Results
